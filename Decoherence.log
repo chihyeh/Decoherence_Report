@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  28 DEC 2019 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  28 DEC 2019 16:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**fcc_timing.tex
-(./fcc_timing.tex
+**Decoherence.tex
+(./Decoherence.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./elsarticle.cls
@@ -89,7 +89,7 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@sep=\skip43
 \@@sep=\skip44
 
-(./fcc_timing.spl)
+(./Decoherence.spl)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
@@ -98,7 +98,7 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count94
 )
 \splwrite=\write3
-\openout3 = `fcc_timing.spl'.
+\openout3 = `Decoherence.spl'.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
@@ -499,8 +499,8 @@ LaTeX Info: Redefining \lesssim on input line 72.
 LaTeX Info: Redefining \gtrsim on input line 75.
 Package hyperref Info: Option `colorlinks' set `true' on input line 92.
 
-(./fcc_timing.aux)
-\openout1 = `fcc_timing.aux'.
+(./Decoherence.aux)
+\openout1 = `Decoherence.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
 LaTeX Font Info:    ... okay on input line 134.
@@ -584,9 +584,9 @@ LaTeX Info: Redefining \ref on input line 134.
 LaTeX Info: Redefining \pageref on input line 134.
 LaTeX Info: Redefining \nameref on input line 134.
 
-(./fcc_timing.out) (./fcc_timing.out)
+(./Decoherence.out) (./Decoherence.out)
 \@outlinefile=\write4
-\openout4 = `fcc_timing.out'.
+\openout4 = `Decoherence.out'.
 
 \c@lstlisting=\count150
 
@@ -608,11 +608,11 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 193.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(./fcc_timing.toc [1
+(./Decoherence.toc [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write5
-\openout5 = `fcc_timing.toc'.
+\openout5 = `Decoherence.toc'.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 200--201
@@ -797,10 +797,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 280--281
 [9] [10]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 299.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 299.
- (./fcc_timing.aux)
+ (./Decoherence.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 299.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 299.
-Package rerunfilecheck Info: File `fcc_timing.out' has not changed.
+Package rerunfilecheck Info: File `Decoherence.out' has not changed.
 (rerunfilecheck)             Checksum: 0BE0320DA143ECF5683FF369316CD16A;1426.
 
 
@@ -810,12 +810,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 299.
  ) 
 Here is how much of TeX's memory you used:
  9321 strings out of 492995
- 132934 string characters out of 6132704
+ 132951 string characters out of 6132704
  254889 words of memory out of 5000000
  12677 multiletter control sequences out of 15000+600000
  13898 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,7n,40p,1108b,357s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,7n,40p,1109b,357s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
@@ -825,7 +825,7 @@ cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
 al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/loca
 l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/
 texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on fcc_timing.pdf (10 pages, 139602 bytes).
+Output written on Decoherence.pdf (10 pages, 139602 bytes).
 PDF statistics:
  178 PDF objects out of 1000 (max. 8388607)
  155 compressed objects within 2 object streams
