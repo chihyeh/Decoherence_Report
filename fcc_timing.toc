@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}The problem of the Copenhagen's interpretation}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}The first puzzle- non-intuitive Superposition}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}The second puzzle- Because you can't see, doesn't mean it, isn't there!}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}The third puzzle- The uninterpreted possibility with the wave function}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Let us get the benefit from the decoherence!}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}What's "decoherence"?}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}The infasturcture of the decoherence and its extension}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}The math describing the basic decoherence}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}The vivid example for giving the explanation of the decoherence}{6}{subsection.3.3}
+\contentsline {section}{\numberline {4}Quantum Darwinism-The extension of the decoherence}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}The expression connecting to the Environment}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}How do we define the environment at all?}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}The symmetry of the coherence and decoherence}{9}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}The solutions to the puzzles}{9}{subsection.4.4}
+\contentsline {section}{\numberline {5}Experiments and results of them}{10}{section.5}
