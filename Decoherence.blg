@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Decoherence.aux
+The style file: elsarticle-num.bst
+Database file #1: biblio.bib
+You've used 4 entries,
+            2955 wiz_defined-function locations,
+            713 strings with 5882 characters,
+and the built_in function-call counts, 1286 in all, are:
+= -- 124
+> -- 28
+< -- 0
++ -- 12
+- -- 8
+* -- 113
+:= -- 191
+add.period$ -- 8
+call.type$ -- 4
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 37
+empty$ -- 149
+format.name$ -- 9
+if$ -- 324
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 3
+newline$ -- 27
+num.names$ -- 4
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 69
+stack$ -- 0
+substring$ -- 63
+swap$ -- 15
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 7
+width$ -- 5
+write$ -- 49

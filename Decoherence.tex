@@ -197,7 +197,7 @@ decoherent, quantum entanglement, Copenhagen's interpretations
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Introduction}
-Over the decade, the class of the quantum mechanism has been being taught in the point of the Copenhagen's intetpretation, which says the concept of the possibility is implanted in our world. In the form of the math, we can use the "wave function" to represent the intensity of the possibility happening this event. But till the recent year, upon the unsolved the problem raised by some of the physicists about the root of this possibility,  another party of the quantum mechanism came up for the fight! They applied the different way from the copenhagen's view,  using the superposition of the states to describe the events coming up, and after we conduct our measurement, the collapse of the wave function happening to the object(s) we would like to measure on is going to show up, and in the end, the state of the object will be fixed at the measured state, pointing to the concepts, "collapse". But the terrifying problem bothering us is that: How come the cat could be dead and alive at the same time in our daily life as an intuitive phenomenon?\\
+Over the decade, the class of the quantum mechanism has been being taught in the point of the Copenhagen's intetpretation\cite{Hollowood_2015}, which says the concept of the possibility is implanted in our world. In the form of the math, we can use the "wave function" to represent the intensity of the possibility happening this event. But till the recent year, upon the unsolved the problem raised by some of the physicists about the root of this possibility,  another party of the quantum mechanism came up for the fight! They applied the different way from the copenhagen's view,  using the superposition of the states to describe the events coming up, and after we conduct our measurement, the collapse of the wave function happening to the object(s) we would like to measure on is going to show up, and in the end, the state of the object will be fixed at the measured state, pointing to the concepts, "collapse". But the terrifying problem bothering us is that: How come the cat could be dead and alive at the same time in our daily life as an intuitive phenomenon?\\
 
 Instead of ending up collapsing to the certain state at the final state, the new concept of the quantum mechanism: Decoherence, just heap up to the stage as the new comer going for the battle! The fundamental basis of this concept is very different from the copenhager's view as speaking of the final state. Actually in the point of view from decoherence, the superposition states won't collapse even if we can't measure them! And in perspective of this idea, many aspects of the quantum mechanism should be well-constructed again. Meanwhile, the multiple-world concept will be brought up as the production of the process.\\ 
 
@@ -225,7 +225,7 @@ In light of considering the interaction between the system of the interest and t
 Despite some of the puzzles remain unsolved even given a such good way to explain many puzzles in the Copenhagen's point as the theory of the decoherence, we can still look at the rest of the puzzles listed above solved by this theory. In the next section, the puzzles in the second section will be unraveled with the help of the decoherence, and also the math ( A little bit ) which is used to be the best way to say about the concepts directly, will also be listed as a way to describe the answer to the puzzles.\\
 
 \section{What's "decoherence"?}
-Be in charge of lightening the points of the decoherence really solved the puzzles above, the first one thing to do is to describe the fundamental picture applied to tackle the problem. And after the well-defined rationale is nailed down certainly, then challenging the puzzles you've heard above and try to solve them with this new concepts is our very next step. \\
+Be in charge of lightening the points of the decoherence\cite{joos1999elements} really solved the puzzles above, the first one thing to do is to describe the fundamental picture applied to tackle the problem. And after the well-defined rationale is nailed down certainly, then challenging the puzzles you've heard above and try to solve them with this new concepts is our very next step. \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{The infasturcture of the decoherence and its extension}
 Actually, it is the very basic picture, that we just write down the real case we have in our real life without throwing away any possibility. Here is an example made by myself, when the certain particle with the certain state comes to our detector, and immediately puts the energy in it through some kinds of the interactions like the EM, and in a certain period of time depending on the resolution of the detector, you will get the certain state defined by the value you see on the panel of the detector. \\
@@ -240,39 +240,89 @@ With this so-called "system-environment interaction" version of the quantum syst
 I will take the example I make in the previous section to do the math process for clarifying the points clearly.\\
 
 First of all, since the system of the quantum and the classical (macroscopic)  will be linked together as the total system for describing the decoherence, we need to have the description of the math on the correspondent between two systems, and the parameter of this one is so-called "the pointer state", which is necessary needed to be well-defined as the most important states. The math description is as follows:\\
+\begin{equation}
+| \varphi \rangle | \Phi \rangle \implies \sum_{\substack{
+   m,n\\
+  }} C_{mn} | \varphi_{n} \rangle | \Phi_{m} \rangle
+\end{equation}
+In this way of writing the definition of that means when we prepare the state at starting, and then we can do the measurement repeatably and result in the dynamics of the measurement interaction could be listed as the way we describe above. And later on, since the environment is involved in the interaction, the formula will be extended with acting the previous operator on the environment: \\
+\begin{equation}
+ (\sum_{\substack{
+   m,n\\
+  }} C_{mn} | \varphi_{n} \rangle | \Phi_{m} \rangle) | E_{0} \rangle \implies  
+ ( \sum_{\substack{
+  m,n\\
+  }} C_{mn} | \varphi_{n} \rangle | \Phi_{m} \rangle | E_{n} )\rangle 
+\end{equation}
+So basically, the essence of the decoherence that is describing the interaction with the environment can be obtained from the formula. And we can draw the simplified pictures in Fig\ref{77777} to acknowledge this phenomenon more easily.\\
 
+\begin{figure}
+\begin{center}
+   \subfigure[] {
+   \includegraphics[width=0.6\textwidth]{7777.png}\hfill
+   }
+\end{center}
+\caption{The figure illustrates the total system that we are considering in this report. The S means the signal of the interest, and the A means the detector we are using to detect the signal. The E is our cast that we are using this one to represent the interaction between the environment and the detector, which means that the classical environment influence the quantum system so much. }
+\label{77777}
+\end{figure}
 
-In this way of writing the definition of that means when we prepare the state at starting, and then we can do the measurement repeatably and result in the dynamics of the measurement interaction could be listed as the way we describe above. So basically, the essence of the decoherence that is describing the interaction with the environment can be obtained from the formula.\\
 
 Unfortunately, it's not so trivial as the formula say, just list the combinations of the total states with the possibility of all of them and end up doing it. Instead, the next step for us to proceed is to answer the extension question from there: How do we deal with those "non-measurable" observations and How do we describe the transition between this two system with some kinds of the transforming math. So the entanglement, the many-world idea could be extracted because of the idea for solving this problem.\\
 
 \subsection{The vivid example for giving the explanation of the decoherence}
 I make an example in this part for explaining the case more vivid. Please image that there is an atom popping up in the certain space, and from our basic knowledge, the energy of stimulating the electron from the ground state to the excited state ( At there it doesn't matter where the excited state is I suppose. ). All of the sudden, we initiate sending the electromagnetic wave to the atom and subsequently, it will go through the back-and-forth processes of the excitation and emission. \\
 
-Till now, the certain picture with the wave oscillating up and down that can be employed to describe the phase of the electron between 0 to 2pi should show up in your mind. The case I'm talking now is so-called "Coherence" case since now the phase can be described as some of the combinations of the periodic waves. ( At there the coherence is the same as the basic case of the coherence light, the same frequency of the wave. ), and in this case, the Schrodiger's cat stating at the dead and alive can be portrayed as this kinds of the pictures in the representative of the wave.\\ 
+Till now, the certain picture with the wave oscillating up and down that can be employed to describe the phase of the electron between 0 to $2\pi$ should show up in your mind. The case I'm talking now is so-called "Coherence" case since now the phase can be described as some of the combinations of the periodic waves. The picture attached in the Fig.\ref{9999} is applied to see this wave. ( At there the coherence is the same as the basic case of the coherence light, the same frequency of the wave. ), and in this case, the Schrodiger's cat stating at the dead and alive can be portrayed as this kinds of the pictures in the representative of the wave.\\ 
+
+\begin{figure}
+\begin{center}
+   \subfigure[] {
+   \includegraphics[width=0.8\textwidth]{E71B0522-CB89-4D9F-B3AA-A9FC2E2CEBA8.jpg}\hfill
+   }
+\end{center}
+\caption{The figure illustrates the process of the decoherence. The transition within the two regions are shown in the plot, which can be used to explain the fundamental jump from the classical to the quantum. }
+\label{9999}
+\end{figure}
 
 But the non-trivial issue is as follows: The quantum system can't be isolated perfectly usually, and the system can interact with the environment definitely, then logically, the system will be impacted by this effect certainly. After passing through the "decoherence time", which describes the fully-acting time that the quantum system will get the balance with the environment, interaction between the quantum system and the environment will be suppressed, and the phase of the wave won't change perpetually. And in this case, it appears to be the same concept as the "collapse" in Copenhagen's interpretation but with the description of the phase. And after the state of this one, the classical properties will be the dominant one in this system and no longer "quantum" anymore.\\
 
 \section{Quantum Darwinism-The extension of the decoherence}
 Based on the previous section about the basic concept of the decoherence, we just keep moving on the next section to the Quantum Darwinism, which is used to describe the interaction formally with the help of the math, also by using some of the math there, we can solve the problems existing in the view of the Copenhagen's.\\
  
-From the original Darwin, it points to the environment-induced system that could complicate the situation. The same as the case we see there, we have the environment interacting with the detector combined with the observations. As we said before, the pointer state is the starting point of the signal, and when it comes to our detector, we can detect it that is already interact with the environment and the state is already mixed up with it if it is out of the coherence time. So at there, we see the two foremost points: (1)The Environment description(2) The transition mechanism including the mixed up states in the end, both of them will be well-established by the theory of the Quantum Darwinism.\\
+From the original Darwin, it points to the environment-induced system that could complicate the situation. The same as the case we see there, we have the environment interacting with the detector combined with the observations. As we said before, the pointer state is the starting point of the signal, and when it comes to our detector, we can detect it that is already interact with the environment and the state is already mixed up with it if it is out of the coherence time. So at there, we see the two foremost points: (1)The Environment description(2) The transition mechanism including the mixed up states in the end, both of them will be well-established by the theory of the Quantum Darwinism\cite{Zurek_2009}.\\
 
 In the end of this section, I will brief on the solutions to the puzzles we've heard above as a conclusion for this section and how much we can proceed there.\\
 \subsection{The expression connecting to the Environment}
 In the thermodynamics, we know that we can use the entropy to describe the level of the mess on the system we are considering. From the expression of the von Neumann on the entropy of the reduced density matrix, it actually uses the same idea as the thermodynamics one, and the formula is as follows:\\
 
-And from this formula, the Rho that you can see in the formula can be used to express the decoherence as follows:\\
+And from this formula, the $\rho$ that you can see in the formula can be used to express the decoherence as follows:\\
+\begin{equation}\label{EQ1}
+\rho_{S} = T_{R\varepsilon} | \Psi_{S\varepsilon} \rangle  \langle \Psi_{S\varepsilon} | 
+\end{equation}
 
-From this math, you can say in the following way: If now we only have the pointer state which is the initial state of the system we prepare, the Rho will be very small since there is near no mess in the system but only the certain level of the state. But since the natural characteristics about the non-isolated system with the interaction with the environment, the state will be messed up with the environment by using the superposition way expressed in the math. So you can see that if the superposition will give out more and more, meaning the intensity of coupling with the environment, that means the level of the mess will keep going up, and then after ending up "sleeping" at the level of the decoherence, it just gets "macroscopic" classically, and it will show up the effective combinations of the state at the end that can be detected.\\
+From this math, you can say in the following way: If now we only have the pointer state which is the initial state of the system we prepare, the $\rho$ will be very small since there is near no mess in the system but only the certain level of the state. But since the natural characteristics about the non-isolated system with the interaction with the environment, the state will be messed up with the environment by using the superposition way expressed in the math. So you can see that if the superposition will give out more and more, meaning the intensity of coupling with the environment, that means the level of the mess will keep going up, and then after ending up "sleeping" at the level of the decoherence, it just gets "macroscopic" classically, and it will show up the effective combinations of the state at the end that can be detected.\\
 
 \subsection{How do we define the environment at all?}
-Since the environment plays an important role as a monitor of receiving the information leaking out from the quantum system in the decoherence, we need to have the way defining it very well. Traditionally, We could think of the environment as a whole(Figure\ref{}) for us to do the analysis to get the information we want. But it turns out that it is impossible for us to detect the event interacting with the environment totally. In this case, the essential of defining the "partial of the environment" is the important point. We can imagine the pictures as the Fig.\ref{} to be the right picture, we have the signal interact with the detector combined with the environment as a whole, and just sort of go into be divided by the different part of the contributions, depending on the copied of the information, which is related to the quantum entanglement. In this case, the formula in xxx can be well-defined again as our revolution formula: \\ 
+Since the environment plays an important role as a monitor of receiving the information leaking out from the quantum system in the decoherence, we need to have the way defining it very well. Traditionally, We could think of the environment as a whole(Figure\ref{}) for us to do the analysis to get the information we want. But it turns out that it is impossible for us to detect the event interacting with the environment totally. In this case, the essential of defining the "partial of the environment" is the important point. We can imagine the pictures as the Fig.\ref{} to be the right picture, we have the signal interact with the detector combined with the environment as a whole, and just sort of go into be divided by the different part of the contributions, depending on the copied of the information, which is related to the quantum entanglement. In this case, the formula in (\ref{EQ1}) can be well-defined again as our revolution formula: \\ 
+\begin{equation}
+\rho_{S} = T_{R\varepsilon/F} | \Psi_{S\varepsilon} \rangle  \langle \Psi_{S\varepsilon} | 
+\end{equation}
+
+F means the fraction of the environment that is involved in the interaction. Also, the picture demonstrating this kind of the phenomenon is in the Fig.\ref{111}.\\
+\begin{figure}
+\begin{center}
+   \subfigure[] {
+   \includegraphics[width=0.6\textwidth]{2222.png}\hfill
+   }
+\end{center}
+\caption{The figure illustrates the different fraction of the environment involved in the interaction with the quantum system composed of the signal part and the detector part.}
+\label{111}
+\end{figure}
 
 For example, the photon comes out your thermal device, and your detector just come close to the device, and you only detector part of it but not all of it. And then, another specialty for us to define the environment separately is that because if we can only measure it once and the state will be destroyed to get turned into another state, then how come can we check if the signal which is measured is right? In this case, since the signal will leak to the some parts of the environment, so we can do checking doubly.\\
 
 \subsection{The symmetry of the coherence and decoherence}
-In another way to explain the decoherence phenomenon is to carry out the symmetry stuff in the same paper. If we just see the symmetry of the different state between the coherence region and decoherence region, you can find out that the tremendous different is that, for the phase of the coherence, the state could be the mixed up one since the exchanged law cant be applied at there in nature, resulting in the correction of describing the state with the wave in 0 to 2pi as the example we gave before.( Not 2pi necessary but the periodic physical parameters.) But when we just come to the entanglement part(Interact between the system and the environment) as the fig.\ref{} said, the information between the two system can exchange mathematically. On the other hand, the phase can't be the periodic since the they just mix up together. So in the end, we could end up figuring out the final state with the "wavepacket-collapse" by using the entanglement interpretation, and the system will turn into the localized state staying at the same state. \\
+In another way to explain the decoherence phenomenon is to carry out the symmetry stuff in the same paper. If we just see the symmetry of the different state between the coherence region and decoherence region, you can find out that the tremendous different is that, for the phase of the coherence, the state could be the mixed up one since the exchanged law cant be applied at there in nature, resulting in the correction of describing the state with the wave in 0 to $2\pi$ as the example we gave before.( Not $2\pi$ necessary but the periodic physical parameters.) But when we just come to the entanglement part(Interact between the system and the environment) as the fig.\ref{} said, the information between the two system can exchange mathematically. On the other hand, the phase can't be the periodic since the they just mix up together. So in the end, we could end up figuring out the final state with the "wavepacket-collapse" by using the entanglement interpretation, and the system will turn into the localized state staying at the same state. \\
 
 The case as there can be seen clearly in the example of the atom I've told in the previous section, when it just starts, it is in the state of the asymmetry, and we can't change the state as well, so we can lead out the coherence plot as the "superposition" case, but after the coherent time, which means the leverage between the system and the environment got balance, and everything is nailed down by the entanglement lead by the symmetry.\\
 
@@ -282,17 +332,61 @@ So for the first puzzles on the non-intuitive superposition, I think the decoher
 Till now, we've been looking at the basic concepts of the decoherence and the way it solves the problem existing in the main-stream party in the quantum mechanism. And now, let us take a look at the works which has been working on corroborating the ideas written in this theory!
 
 \section{Experiments and results of them} 
+So far, the theory of the decoherence has been well-described as the other one more beautiful than the Copenhagen's point to acknowledge our quantum system. In this section, the experiments of the related ones upon the decoherence will be demonstrated to talk the incredibly displayed out demonstrations happening in the labs.
+
+In this section, I would like to introduce the first paper\cite{Hackerm_ller_2004} I've read that is the obvious case in order to find out the phenomenon of the decoherence clearly.\\
+
+The setup of the experiment is in the Fig.\ref{666} quoted by the paper. In the paper, it just implements the thermal emission, which lightening the laser blocking on the way which the particle is gonne go through, to be their approach to induce the environment into this quantum system. And for the intensity of the "entanglement", which means the intensity of the coupling between the particle and the outside environment, is outperformed with form of the power of the laser acting on the particle as it's going through the light.\\
+
+\begin{figure}
+\begin{center}
+   \subfigure[] {
+   \includegraphics[width=0.8\textwidth]{6666.png}\hfill
+   }
+\end{center}
+\caption{The figure illustrates setup of the experiment used in being the proof of the decoherence in the experiment of the thermal emission.}
+\label{666}
+\end{figure}
+
+For these three gratings applied in the experiment, actually are the standard ones we usually use in the interference experiment. The first one is for the purpose of making the wave of going through the grating coherent again! And it is the normal SOP done on this kind of the experiment when executing on exploring the pattern of the diffraction/interference. And the second, demonstrably, is the one we adopt to have the wave diffracted for seeing some patterns. And in this experiment, it is used to see the pattern of that to see the wave and exam the suppose of the decoherence.  At the end of passing through the previous gratings, the grating for modulating the molecular density pattern is the necessary one installed in. And our measurement of the experiment is the ionization detector, which is applied to measure the wave acted on by the diffraction effect.\\
+
+The significant results obtained from the paper are in the Fig.\ref{333}, which you can see the pattern clearly considerably. As you can see with the different power of the laser, the pattern of the wave is quiet different. From the smallest one, which is no laser applied case, can see the matter wave of the electron pretty well, is a beautiful wave as the one in the figure of the most left one. And then we make a decision of starting turning on the power of the laser, and you can see at first with the 3W, the pattern is a amplitude-amplified case as you can see because of the power is increased without the decoherence shows up. But when the power of it is getting higher and higher, and can see the the decline of the amplitude of the wave measured by our detector is getting smaller and smaller, and in the end, the you can see that the wave can't be demonstrated obviously and the phenomenon of the decoherence is well-looked.\\ 
+\begin{figure}
+\begin{center}
+   \subfigure[] {
+   \includegraphics[width=0.6\textwidth]{3333.png}\hfill
+   }
+\end{center}
+\caption{The figure illustrates the different fraction of the environment involved in the interaction with the quantum system composed of the signal part and the detector part.}
+\label{333}
+\end{figure}
+
+For another picture digged out from the paper, the Fig.\ref{444} It indicates the fringe interference referred to the pattern of the decoherence is with respect to the power of laser clearly and a function of the temperature, directing to the laser power. You can see that in the lower power cases, the infringe is clear for us to see it as the coherence cases we could see with the "lower-interaction with the environment" case. But oppositely, after the certain threshold achieved in this case, the transition between the coherence(quantum) and the decoherence(classical) will be initiated.\\ 
+\begin{figure}
+\begin{center}
+   \subfigure[] {
+   \includegraphics[width=0.6\textwidth]{4444.png}\hfill
+   }
+\end{center}
+\caption{The figure illustrates the different fraction of the environment involved in the interaction with the quantum system composed of the signal part and the detector part.}
+\label{444}
+\end{figure}
+
+Stink on the same picture as the one in the previous paragraph, the one idea hits on my mind is why don't we find the inflection point of the line to be the significant point in the transition plot, and we can do some of the works on the point and see the sharp transition to see the boundary of the classical and quantum mechanism more clearly? More specific, if I take the lower picture as the example, and we can find something like 2.5W or similar, and we can just fix our power at there and do some works on minus and plus a little bit power on it. Then, we can try to prove some classical/quantum things in that special region, even test or define some properties with respect to the frame of the decoherence as a new party of the "Theory of everything." Just a guess but it appears to be an interesting question to me. )\\
+
+
+
 
 
 \newpage
 %%%%%%%%%%%%%%%%%%%%%% references %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\section*{References}
+\section*{References}
 
-%\bibliographystyle{elsarticle-num}
-%\def\bibname{\Large\bf References}
-%\def\refname{\Large\bf References}
-%\pagestyle{plain}
-%\bibliography{biblio}
+\bibliographystyle{elsarticle-num}
+\def\bibname{\Large\bf References}
+\def\refname{\Large\bf References}
+\pagestyle{plain}
+\bibliography{biblio}
 
 
 

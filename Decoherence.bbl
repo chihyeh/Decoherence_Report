@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Hollowood_2015}
+T.~J. Hollowood,
+  \href{http://dx.doi.org/10.1080/00107514.2015.1111978}{Copenhagen quantum
+  mechanics}, Contemporary Physics 57~(3) (2015) 289?308.
+\newblock \href {http://dx.doi.org/10.1080/00107514.2015.1111978}
+  {\path{doi:10.1080/00107514.2015.1111978}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1080/00107514.2015.1111978}
+
+\bibitem{joos1999elements}
+E.~Joos, Elements of environmental decoherence (1999).
+\newblock \href {http://arxiv.org/abs/quant-ph/9908008}
+  {\path{arXiv:quant-ph/9908008}}.
+
+\bibitem{Zurek_2009}
+W.~H. Zurek, \href{http://dx.doi.org/10.1038/nphys1202}{Quantum darwinism},
+  Nature Physics 5~(3) (2009) 181?188.
+\newblock \href {http://dx.doi.org/10.1038/nphys1202}
+  {\path{doi:10.1038/nphys1202}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nphys1202}
+
+\bibitem{Hackerm_ller_2004}
+L.~Hackermüller, K.~Hornberger, B.~Brezger, A.~Zeilinger, M.~Arndt,
+  \href{http://dx.doi.org/10.1038/nature02276}{Decoherence of matter waves by
+  thermal emission of radiation}, Nature 427~(6976) (2004) 711?714.
+\newblock \href {http://dx.doi.org/10.1038/nature02276}
+  {\path{doi:10.1038/nature02276}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1038/nature02276}
+
+\end{thebibliography}

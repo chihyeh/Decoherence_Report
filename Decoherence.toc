@@ -7,10 +7,10 @@
 \contentsline {section}{\numberline {3}What's "decoherence"?}{5}{section.3}
 \contentsline {subsection}{\numberline {3.1}The infasturcture of the decoherence and its extension}{5}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}The math describing the basic decoherence}{6}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}The vivid example for giving the explanation of the decoherence}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.3}The vivid example for giving the explanation of the decoherence}{7}{subsection.3.3}
 \contentsline {section}{\numberline {4}Quantum Darwinism-The extension of the decoherence}{7}{section.4}
-\contentsline {subsection}{\numberline {4.1}The expression connecting to the Environment}{7}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}How do we define the environment at all?}{8}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}The symmetry of the coherence and decoherence}{9}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}The solutions to the puzzles}{9}{subsection.4.4}
-\contentsline {section}{\numberline {5}Experiments and results of them}{10}{section.5}
+\contentsline {subsection}{\numberline {4.1}The expression connecting to the Environment}{9}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}How do we define the environment at all?}{10}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}The symmetry of the coherence and decoherence}{11}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}The solutions to the puzzles}{11}{subsection.4.4}
+\contentsline {section}{\numberline {5}Experiments and results of them}{12}{section.5}
