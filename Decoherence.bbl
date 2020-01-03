@@ -13,6 +13,12 @@ T.~J. Hollowood,
   {\path{doi:10.1080/00107514.2015.1111978}}.
 \newline\urlprefix\url{http://dx.doi.org/10.1080/00107514.2015.1111978}
 
+\bibitem{Kiefer}
+C.~Kiefer, E.~Joos, \href{http://dx.doi.org/10.1007/BFb0105342}{Decoherence:
+  Concepts and examples}, Lecture Notes in Physics  105?128\href
+  {http://dx.doi.org/10.1007/bfb0105342} {\path{doi:10.1007/bfb0105342}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1007/BFb0105342}
+
 \bibitem{joos1999elements}
 E.~Joos, Elements of environmental decoherence (1999).
 \newblock \href {http://arxiv.org/abs/quant-ph/9908008}
