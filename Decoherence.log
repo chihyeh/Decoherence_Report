@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  3 JAN 2020 08:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.27)  3 JAN 2020 11:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -877,12 +877,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 404.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 404.
 Package rerunfilecheck Info: File `Decoherence.out' has not changed.
 (rerunfilecheck)             Checksum: 0BE0320DA143ECF5683FF369316CD16A;1426.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 404.
  ) 
 Here is how much of TeX's memory you used:
  9417 strings out of 492995
  134295 string characters out of 6132704
- 256675 words of memory out of 5000000
+ 256785 words of memory out of 5000000
  12731 multiletter control sequences out of 15000+600000
  13898 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -900,7 +904,7 @@ exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texli
 ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Decoherence.pdf (16 pages, 660448 bytes).
+Output written on Decoherence.pdf (16 pages, 660561 bytes).
 PDF statistics:
  295 PDF objects out of 1000 (max. 8388607)
  248 compressed objects within 3 object streams
